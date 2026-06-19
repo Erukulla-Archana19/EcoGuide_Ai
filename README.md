@@ -92,10 +92,10 @@ Answers are written using the user's real numbers — for example, when asked ab
 
 ---
 
-## License
+## Developer
 
-Add your preferred license here (MIT, etc.)
-
+ERUKULLA ARCHANA 
+https://github.com/Erukulla-Archana19
 ---
 
 <p align="center">Made with 💚 for the planet</p>
